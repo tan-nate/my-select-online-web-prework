@@ -15,7 +15,7 @@ def my_select(array)
   new_array
 end
 
-my_collect(array) do |name|
+my_select(array) do |name|
   name.capitalize
 end
 
