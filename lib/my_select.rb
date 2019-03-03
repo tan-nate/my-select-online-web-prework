@@ -1,5 +1,7 @@
 require 'pry'
 
+array = ["nate", "karl", "shannon", "chin"]
+
 def my_select(array)
   i = 0
   new_array = []
